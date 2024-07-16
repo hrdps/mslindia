@@ -1,0 +1,17 @@
+p {
+  height: 100vh;
+  font-size: 66px;
+  line-height: 80px;
+  font-weight: 800;
+  text-transform: uppercase;
+  background: url('../assets/fluid.png');
+  color: #de466c;
+  background-clip: initial;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  z-index: 9999999;
+  background-color: aliceblue;
+}
+body {
+  background-color: black;
+}
